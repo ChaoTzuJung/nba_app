@@ -1,5 +1,6 @@
 # NBA APP
 
+![Demo](https://imgur.com/ZEhyBut.png)
 
 ## NPM Scripts
 
